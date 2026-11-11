@@ -1,0 +1,9 @@
+.DS_Store
+.claude/
+.agents/
+.taste-skill/
+shots/
+skills-lock.json
+# design-kit library: the site only uses assets/img
+assets/*
+!assets/img/
